@@ -1,6 +1,0 @@
-{
-  "name": "ENGIDA",
-  "description": "Ethiopia's first Amharic serialized fiction and storytelling platform, featuring immersive reading experiences, writer monetization, and integrated Telebirr payments.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
